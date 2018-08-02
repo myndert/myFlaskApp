@@ -6,7 +6,9 @@ To use this program, your computer needs:
 
 - Python 2 or 3
 - Pip Package Manager
-- Running the app
+- mySQL
+
+# Running the app
 - python app.py
 
-- mySQL
+
