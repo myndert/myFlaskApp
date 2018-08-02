@@ -8,3 +8,5 @@ To use this program, your computer needs:
 - Pip Package Manager
 - Running the app
 - python app.py
+
+- mySQL
