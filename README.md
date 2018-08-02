@@ -4,7 +4,7 @@ Simple application with authentication and CRUD functionality using the Python F
 # Installation
 To use this program, your computer needs:
 
-Python 2 or 3
-Pip Package Manager
-Running the app
-python app.py
+- Python 2 or 3
+- Pip Package Manager
+- Running the app
+- python app.py
